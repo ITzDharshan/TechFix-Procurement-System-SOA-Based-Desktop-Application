@@ -90,7 +90,7 @@ TechFix-Procurement-System/
 ## 🤝 Author
 
 - 👨‍💻 **Mohana Dharshan**
-- 🐙 GitHub: [@ITzDharshan](https://github.com/ITzDharshan)
+- 🐙 GitHub: [github.com/MDharshan27](https://github.com/MDharshan27)
 - 💼 LinkedIn: [linkedin.com/in/mdharshan](https://www.linkedin.com/in/mdharshan)
 
 ---
